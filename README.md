@@ -1,4 +1,4 @@
-# PyTorch Modular Notebook
+# PyTorch Classification Notebook
 
 ## Overview
 
